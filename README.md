@@ -16,6 +16,6 @@ A conical adapter for the i3 MK2's filament arms. This lets MK2 users mount spoo
 
 Use ConicalPlatedForPrinting.stl to 3D print. The individual objects are available as well.
 
-Add quality 608 bearings for smooth feeding.
+# Installation
 
-When mounting a spool, the arms might snag slightly on the sides if the arms spaced too tightly. Post installation, give it a slight spin to test and adjust as needed with the spool mounted.
+When mounting a spool, the arms might snag slightly on the sides if the arms are spaced too tightly. Post installation, give it a spin to test and adjust as needed with the spool mounted.
