@@ -2,11 +2,14 @@
 
 A conical adapter for the i3 MK2's filament arms. This lets MK2 users mount spools with asymmetric sides, or spools with odd inner core diameters/depths.
 
+![Conical One Point One](ConicalOnePointOne.png)
+
 # Materials needed
 
 3D printer, filament.
 
-6x 608 skateboard bearings (3 for each holder). [Bones Reds](https://www.amazon.com/Bones-Bearings-Reds/dp/B003U7TQ5U) have been tested with this adapter and work reasonably well.
+Optional: 6x 608 skateboard bearings (3 for each holder). [Bones Reds](https://www.amazon.com/Bones-Bearings-Reds/dp/B003U7TQ5U) have been tested with this adapter and work reasonably well.
+The adapter should work without the bearings, but feeding/layer alignment may not be as consistent.
 
 # Printing
 
